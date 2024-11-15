@@ -1,7 +1,7 @@
 Nama : bade agung satrio darmo pamungkas Nim : 2205101033
 # SEMANTIC-HTML
 Latihan Praktikum 1 Semantic HTML
-#LATIHAN 1
+# LATIHAN 1
 Menganalisis Code
 
 A) HTML
